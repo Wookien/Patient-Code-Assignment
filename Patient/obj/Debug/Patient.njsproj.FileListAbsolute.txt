@@ -1,0 +1,3 @@
+C:\Users\taisb\Desktop\Dum as projekts\Patient\Patient-Code-Assignment\Patient\obj\Debug\Patient.njsproj.AssemblyReference.cache
+C:\Users\taisb\Desktop\Dum as projekts\Patient\Patient-Code-Assignment\Patient\obj\Debug\Patient.njsproj.CoreCompileInputs.cache
+C:\Users\taisb\Desktop\Dum as projekts\Patient\Patient-Code-Assignment\Patient\bin\Microsoft.NodejsTools.WebRole.dll
