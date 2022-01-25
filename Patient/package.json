@@ -1,9 +1,0 @@
-{
-  "name": "patient",
-  "version": "0.0.0",
-  "description": "Patient",
-  "main": "app.js",
-  "author": {
-    "name": ""
-  }
-}
