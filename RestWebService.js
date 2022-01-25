@@ -39,7 +39,7 @@ app.get("/", (req, res) =>{
     res.send("hello world!");
  });
 
-app.get("/api/patient/:id", (req, res) =>{
+app.get("/getPatient?patientID", (req, res) =>{
     var  Patients = Patient.find(p => p.id === parseInt( req.params.id));
     if(!Patients) res.status(404).send("This Patient with the given ID was not found");// 404 
     res.send(Patients);
